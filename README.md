@@ -1,4 +1,4 @@
-# NetCore RP2040 | Ethernet Development Board
+# NetCore RP2040
 
 
 ## Overview
