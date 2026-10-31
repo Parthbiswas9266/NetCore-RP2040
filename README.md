@@ -182,8 +182,6 @@ See the [LICENSE](LICENSE) file for details.
 
 Embedded Systems & PCB Design Engineer
 
-Interested in embedded hardware development, PCB design, Ethernet networking, IoT and industrial electronics.
-
 ---
 
 <p align="center">
