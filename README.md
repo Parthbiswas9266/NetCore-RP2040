@@ -1,5 +1,16 @@
 # NetCore RP2040 | Ethernet Development Board
 
+
+## Overview
+
+**NetCore RP2040** is a compact Ethernet-enabled development board built around the Raspberry Pi RP2040 microcontroller and the WIZnet W5500 hardware TCP/IP Ethernet controller.
+
+Designed with space efficiency and embedded networking applications in mind, the board integrates wired Ethernet connectivity, USB Type-C programming and power, external QSPI flash storage, and essential debugging and expansion interfaces into a compact PCB.
+
+By offloading TCP/IP processing to the W5500, the RP2040 can focus on application-level processing while maintaining reliable wired network connectivity through a dedicated SPI interface.
+
+NetCore RP2040 is intended as a hardware platform for embedded networking, IoT devices, Ethernet-enabled controllers, monitoring systems and compact industrial communication applications.
+
 <p align="center">
   <img src="3D%20Renders/3D_PCB1_2026-10-31.png" alt="NetCore RP2040 3D PCB Render" width="75%">
 </p>
@@ -16,15 +27,6 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow">
 </p>
 
-## Overview
-
-**NetCore RP2040** is a compact Ethernet-enabled development board built around the Raspberry Pi RP2040 microcontroller and the WIZnet W5500 hardware TCP/IP Ethernet controller.
-
-Designed with space efficiency and embedded networking applications in mind, the board integrates wired Ethernet connectivity, USB Type-C programming and power, external QSPI flash storage, and essential debugging and expansion interfaces into a compact PCB.
-
-By offloading TCP/IP processing to the W5500, the RP2040 can focus on application-level processing while maintaining reliable wired network connectivity through a dedicated SPI interface.
-
-NetCore RP2040 is intended as a hardware platform for embedded networking, IoT devices, Ethernet-enabled controllers, monitoring systems and compact industrial communication applications.
 
 ## Key Features
 
